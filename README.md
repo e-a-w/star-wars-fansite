@@ -28,7 +28,7 @@ Here are some links to resources and a few tips to help you with this project:
 - Pushing your code up to your GitHub Repo - https://help.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository-using-the-command-line
 - HTML Element Reference - https://www.w3schools.com/tags/default.asp
 - CSS Attribute Reference - https://www.w3schools.com/cssref/default.asp
-GitHub Pages - https://pages.github.com/ 
+- GitHub Pages - https://pages.github.com/ 
 - We have provided a skeleton codebase for you to work with, an HTML page and a CSS page which has been linked to the HTML page in the header.
 - Remember, assigning `id` and `class` to your HTML elements is how you connect those specific elements to the CSS rules you make in your CSS file.
 - The order of your HTML matters, so remember to structure your page the way you want it to look.
