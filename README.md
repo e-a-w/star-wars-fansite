@@ -1,8 +1,8 @@
-# fan-site
-Week 0 Project: The Fan Site
+# Week 0 Project: The Fan Site
+You'll use GitHub Pages to create a fan-site about something. It's 1997 all over again!
 
 ## Goals
-You should be able to do the following things:
+Your fan-site should have the following things:
  - You'll use GitHub Pages to create a fan-site about something. It's 1997 all over again!
  - Create a GitHub repo on your personal account named `[YOUR GITHUB USER NAME].github.io`
  - If I go to `[YOUR GITHUB USER NAME].github.io`, it should NOT give me a 404 Page ("There isn't a GitHub Pages site here.")
