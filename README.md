@@ -15,8 +15,8 @@ You’re creating a “coming soon” page for your personal GitHub page. It sho
 - If I go to `[YOUR GITHUB USER NAME].github.io`, it should NOT give me a 404 Page ("There isn't a GitHub Pages site here.")
 - Create a `README.md` file. It should say one thing: “More info coming soon!” You’ll be working on this soon. 
 
-Now, you’ll be making a fan-site, based on an existing fan-site template. This fan-site should have the following things:
-- There should be a repo on your personal GitHub account named fansite, cloned off this repo.
+Now, you’ll be making a fan-site, based on this GitHub you're reading now. This fan-site should have the following things:
+- There should be a repo on your personal GitHub account named `fansite`, cloned off this repo.
 - If I go to `[YOUR GITHUB USER NAME].github.io/fansite`, it should NOT give me a 404 Page ("There isn't a GitHub Pages site here.")
 - Edit the `fansite.html` and `fansite.css` files and use HTML and CSS to replace what’s there with the content about the thing you're, um, fanning over. You’ll commit and push the changes to your GitHub repo.
 - If I go to your fansite code at `https://github.com/[YOUR GITHUB USER NAME]/fansite`, it should have your information, not was what was previously there.
