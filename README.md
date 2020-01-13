@@ -11,7 +11,7 @@ Another aspect of this exercise is to get you used to looking for answers. There
 
 ### Project Goals
 You’re creating a “coming soon” page for your personal GitHub page. It should have the following things:
-- [ ] There should be a repo on your personal GitHub account named `[YOUR GITHUB USER NAME].github.io`
+- There should be a repo on your personal GitHub account named `[YOUR GITHUB USER NAME].github.io`
 - If I go to `[YOUR GITHUB USER NAME].github.io`, it should NOT give me a 404 Page ("There isn't a GitHub Pages site here.")
 - Create a `README.md` file. It should say one thing: “More info coming soon!” You’ll be working on this soon. 
 
