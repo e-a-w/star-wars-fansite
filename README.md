@@ -1,7 +1,7 @@
 # Week 0 Project: Fan Sites and Homepages
 You’re going to get comfortable with GitHub, a place where developers store their coding projects. To do that, you’re making your first fansite.
 
-Another aspect of this exercise is to get you used to looking for answers. There is an incredible wealth of coding knowledge out there in the wild, many times you will need to look for a refresher on something you previously learned or will tackling new unexplored subjects. Trust us, many of your questions have been asked before, a quick google search could save you alot of time and effort!
+Another aspect of this exercise is to get you used to looking for answers. There is an incredible wealth of coding knowledge out there in the wild, many times you will need to look for a refresher on something you previously learned or will be tackling new unexplored subjects. Trust us, many of your questions have been asked before, a quick google search could save you alot of time and effort!
 
 ## Goals
 ### Personal Goal
