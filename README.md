@@ -7,11 +7,11 @@ Another aspect of this exercise is to get you used to looking for answers. There
 ### Personal Goal
 
 - You’ll be able to create your first personal coding projects, visible by the public on GitHub.
-- You’ll get comfortable with git and GitHub -- cloning repositories (repos), making changes.
+- You’ll get comfortable with git and GitHub -- cloning repositories (repos), making changes, and pushing those changes back to GitHub.
 
 ### Project Goals
 You’re creating a “coming soon” page for your personal GitHub page. It should have the following things:
-- There should be a repo on your personal GitHub account named `[YOUR GITHUB USER NAME].github.io`
+- [ ] There should be a repo on your personal GitHub account named `[YOUR GITHUB USER NAME].github.io`
 - If I go to `[YOUR GITHUB USER NAME].github.io`, it should NOT give me a 404 Page ("There isn't a GitHub Pages site here.")
 - Create a `README.md` file. It should say one thing: “More info coming soon!” You’ll be working on this soon. 
 
@@ -37,5 +37,5 @@ Here are some links to resources and a few tips to help you with this project:
 
 ## Notes
 - We use GitHub a lot here, inside and outside Wyncode. If many people work on the same project, we use GitHub to communicate. [Many open-source projects](https://github.com/open-source) use GitHub as well. 
-- There may be a situation where you make changes and it may take some time for it to appear if you go to the URL on GitHub. This is because of something GitHub does [called caching](https://www.dynadot.com/community/help/question/what-is-cached-website).
+- There may be a situation where you make changes to files on `[YOUR GITHUB USER NAME].github.io` and it may take some time for it to appear if you go to the URL on GitHub. This is because of something GitHub does [called caching](https://www.dynadot.com/community/help/question/what-is-cached-website).
 - You'll be adding a `README.md` file on all of the projects you do. Trust me, you-in-two-years will thank you for it.
