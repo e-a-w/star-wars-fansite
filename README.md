@@ -17,7 +17,7 @@ You’re creating a “coming soon” page for your personal GitHub page. It sho
 
 Now, you’ll be making a fan-site, based on this GitHub you're reading now. This fan-site should have the following things:
 - There should be a repo on your personal GitHub account named `fansite`, cloned off this repo.
-- If I go to `[YOUR GITHUB USER NAME].github.io/fansite`, it should NOT give me a 404 Page ("There isn't a GitHub Pages site here.")
+- If I go to `[YOUR GITHUB USER NAME].github.io/fansite/fansite.html`, it should NOT give me a 404 Page ("There isn't a GitHub Pages site here.")
 - Edit the `fansite.html` and `fansite.css` files and use HTML and CSS to replace what’s there with the content about the thing you're, um, fanning over. You’ll commit and push the changes to your GitHub repo.
 - If I go to your fansite code at `https://github.com/[YOUR GITHUB USER NAME]/fansite`, it should have your information, not was what was previously there.
 
@@ -37,5 +37,5 @@ Here are some links to resources and a few tips to help you with this project:
 
 ## Notes
 - We use GitHub a lot here, inside and outside Wyncode. If many people work on the same project, we use GitHub to communicate. [Many open-source projects](https://github.com/open-source) use GitHub as well. 
-- There may be a situation where you make changes to files on `[YOUR GITHUB USER NAME].github.io` and it may take some time for it to appear if you go to the URL on GitHub. This is because of something GitHub does [called caching](https://www.dynadot.com/community/help/question/what-is-cached-website).
+- There may be a situation where you make changes to files on GitHub Pages may take some time for it to appear if you go to the URL on GitHub. This is because of something GitHub does [called caching](https://www.dynadot.com/community/help/question/what-is-cached-website).
 - You'll be adding a `README.md` file on all of the projects you do. Trust me, you-in-two-years will thank you for it.
