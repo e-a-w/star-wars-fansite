@@ -11,15 +11,15 @@ Another aspect of this exercise is to get you used to looking for answers. There
 
 ### Project Goals
 You’re creating a “coming soon” page for your personal GitHub page. It should have the following things:
-- There should be a repo on your personal GitHub account named [YOUR GITHUB USER NAME].github.io
-- If I go to [YOUR GITHUB USER NAME].github.io, it should NOT give me a 404 Page ("There isn't a GitHub Pages site here.")
-- Create a README.md file. It should say one thing: “More info coming soon!” You’ll be working on this soon. 
+- There should be a repo on your personal GitHub account named `[YOUR GITHUB USER NAME].github.io`
+- If I go to `[YOUR GITHUB USER NAME].github.io`, it should NOT give me a 404 Page ("There isn't a GitHub Pages site here.")
+- Create a `README.md` file. It should say one thing: “More info coming soon!” You’ll be working on this soon. 
 
 Now, you’ll be making a fan-site, based on an existing fan-site template. This fan-site should have the following things:
 - There should be a repo on your personal GitHub account named fansite, cloned off this repo.
-- If I go to [YOUR GITHUB USER NAME].github.io/fansite, it should NOT give me a 404 Page ("There isn't a GitHub Pages site here.")
-- Edit the fansite.html and fansite.css files and use HTML and CSS to replace what’s there with the content about the thing you're, um, fanning over. You’ll commit and push the changes to your GitHub repo.
-- If I go to your fansite code at github.com/[YOUR GITHUB USER NAME]/fansite, it should have your information, not was what was previously there.
+- If I go to `[YOUR GITHUB USER NAME].github.io/fansite`, it should NOT give me a 404 Page ("There isn't a GitHub Pages site here.")
+- Edit the `fansite.html` and `fansite.css` files and use HTML and CSS to replace what’s there with the content about the thing you're, um, fanning over. You’ll commit and push the changes to your GitHub repo.
+- If I go to your fansite code at `https://github.com/[YOUR GITHUB USER NAME]/fansite`, it should have your information, not was what was previously there.
 
 ## Resources
 Here are some links to resources and a few tips to help you with this project:
@@ -36,6 +36,6 @@ GitHub Pages - https://pages.github.com/
 - Happy coding! Feel free to reach out on slack if you have any questions, don't be afraid to ask for help!
 
 ## Notes
-- We use GitHub a lot here, inside and outside Wyncode. If many people work on the same project, we use GitHub to communicate. Many open-source projects use GitHub as well. 
-- There may be a situation where you make changes and it may take some time for it to appear if you go to the URL on GitHub. This is because of something GitHub does called caching.
-- You'll be adding a README.md file on all of the projects you do. Trust me, you-in-two-years will thank you for it.
+- We use GitHub a lot here, inside and outside Wyncode. If many people work on the same project, we use GitHub to communicate. [Many open-source projects](https://github.com/open-source) use GitHub as well. 
+- There may be a situation where you make changes and it may take some time for it to appear if you go to the URL on GitHub. This is because of something GitHub does [called caching](https://www.dynadot.com/community/help/question/what-is-cached-website).
+- You'll be adding a `README.md` file on all of the projects you do. Trust me, you-in-two-years will thank you for it.
