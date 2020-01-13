@@ -1,6 +1,8 @@
 # Week 0 Project: Fan Sites and Homepages
 You’re going to get comfortable with GitHub, a place where developers store their coding projects. To do that, you’re making your first fansite.
 
+Another aspect of this exercise is to get you used to looking for answers. There is an incredible wealth of coding knowledge out there in the wild, many times you will need to look for a refresher on something you previously learned or will tackling new unexplored subjects. Trust us, many of your questions have been asked before, a quick google search could save you alot of time and effort!
+
 ## Goals
 ### Personal Goal
 
@@ -28,7 +30,7 @@ Here are some links to resources and a few tips to help you with this project:
 - CSS Attribute Reference - https://www.w3schools.com/cssref/default.asp
 GitHub Pages - https://pages.github.com/ 
 - We have provided a skeleton codebase for you to work with, an HTML page and a CSS page which has been linked to the HTML page in the header.
-- Remember, assigning ids and classes to your HTML elements is how you connect those specific elements to the CSS rules you make in your CSS file.
+- Remember, assigning `id` and `class` to your HTML elements is how you connect those specific elements to the CSS rules you make in your CSS file.
 - The order of your HTML matters, so remember to structure your page the way you want it to look.
 - Keep it simple, this is just to get your feet wet with some coding, we will be covering all of these concepts during week 1 and there will be a lot of practice.
 - Happy coding! Feel free to reach out on slack if you have any questions, don't be afraid to ask for help!
