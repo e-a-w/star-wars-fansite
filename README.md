@@ -19,7 +19,7 @@ Now, you’ll be making a fan-site, based on this GitHub you're reading now. Thi
 - There should be a repo on your personal GitHub account named `fansite`, cloned off this repo.
 - If I go to `[YOUR GITHUB USER NAME].github.io/fansite/fansite.html`, it should NOT give me a 404 Page ("There isn't a GitHub Pages site here.")
 - Edit the `fansite.html` and `fansite.css` files and use HTML and CSS to replace what’s there with the content about the thing you're, um, fanning over. You’ll commit and push the changes to your GitHub repo.
-- If I go to your fansite code at `https://github.com/[YOUR GITHUB USER NAME]/fansite`, it should have your information, not was what was previously there.
+- If I go to your fansite code at `https://[YOUR GITHUB USER NAME].github.io`, it should have your information, not was what was previously there.
 
 ## Resources
 Here are some links to resources and a few tips to help you with this project:
