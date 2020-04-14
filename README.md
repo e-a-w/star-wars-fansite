@@ -5,21 +5,18 @@ Another aspect of this exercise is to get you used to looking for answers. There
 
 ## Goals
 ### Personal Goal
-
 - You’ll be able to create your first personal coding projects, visible by the public on GitHub.
 - You’ll get comfortable with git and GitHub -- cloning repositories (repos), making changes, and pushing those changes back to GitHub.
 
 ### Project Goals
-You’re creating a “coming soon” page for your personal GitHub page. It should have the following things:
+Now, you’ll be making a fan-site, based on this GitHub you're reading now. This fan-site should have the following things:
 - There should be a repo on your personal GitHub account named `[YOUR GITHUB USER NAME].github.io`
 - If I go to `[YOUR GITHUB USER NAME].github.io`, it should NOT give me a 404 Page ("There isn't a GitHub Pages site here.")
-- Create a `README.md` file. It should say one thing: “More info coming soon!” You’ll be working on this soon. 
-
-Now, you’ll be making a fan-site, based on this GitHub you're reading now. This fan-site should have the following things:
-- There should be a repo on your personal GitHub account named `fansite`, cloned off this repo.
-- If I go to `[YOUR GITHUB USER NAME].github.io/fansite/fansite.html`, it should NOT give me a 404 Page ("There isn't a GitHub Pages site here.")
 - Edit the `fansite.html` and `fansite.css` files and use HTML and CSS to replace what’s there with the content about the thing you're, um, fanning over. You’ll commit and push the changes to your GitHub repo.
-- If I go to your fansite code at `https://[YOUR GITHUB USER NAME].github.io`, it should have your information, not was what was previously there.
+- If I go to your fansite code at `https://[YOUR GITHUB USER NAME].github.io`, it should have your fansite, not was what was previously there.
+  - We have provided a skeleton codebase for you to work with, an HTML page and a CSS page which has been linked to the HTML page in the header.
+  - Remember, assigning `id` and `class` to your HTML elements is how you connect those specific elements to the CSS rules you make in your CSS file.
+  - The order of your HTML matters, so remember to structure your page the way you want it to look.
 
 ## Resources
 Here are some links to resources and a few tips to help you with this project:
@@ -29,9 +26,6 @@ Here are some links to resources and a few tips to help you with this project:
 - HTML Element Reference - https://www.w3schools.com/tags/default.asp
 - CSS Attribute Reference - https://www.w3schools.com/cssref/default.asp
 - GitHub Pages - https://pages.github.com/ 
-- We have provided a skeleton codebase for you to work with, an HTML page and a CSS page which has been linked to the HTML page in the header.
-- Remember, assigning `id` and `class` to your HTML elements is how you connect those specific elements to the CSS rules you make in your CSS file.
-- The order of your HTML matters, so remember to structure your page the way you want it to look.
 - Keep it simple, this is just to get your feet wet with some coding, we will be covering all of these concepts during week 1 and there will be a lot of practice.
 - Happy coding! Feel free to reach out on slack if you have any questions, don't be afraid to ask for help!
 
