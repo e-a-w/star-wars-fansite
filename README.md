@@ -12,7 +12,7 @@ Another aspect of this exercise is to get you used to looking for answers. There
 Now, you’ll be making a fan-site, based on this GitHub you're reading now. This fan-site should have the following things:
 - There should be a repo on your personal GitHub account named `[YOUR GITHUB USER NAME].github.io`
 - If I go to `[YOUR GITHUB USER NAME].github.io`, it should NOT give me a 404 Page ("There isn't a GitHub Pages site here.")
-- Edit the `fansite.html` and `fansite.css` files and use HTML and CSS to replace what’s there with the content about the thing you're, um, fanning over. You’ll commit and push the changes to your GitHub repo.
+- Edit the `index.html` and `fansite.css` files and use HTML and CSS to replace what’s there with the content about the thing you're, um, fanning over. You’ll commit and push the changes to your GitHub repo.
 - If I go to your fansite code at `https://[YOUR GITHUB USER NAME].github.io`, it should have your fansite, not was what was previously there.
   - We have provided a skeleton codebase for you to work with, an HTML page and a CSS page which has been linked to the HTML page in the header.
   - Remember, assigning `id` and `class` to your HTML elements is how you connect those specific elements to the CSS rules you make in your CSS file.
