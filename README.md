@@ -33,3 +33,4 @@ Here are some links to resources and a few tips to help you with this project:
 - We use GitHub a lot here, inside and outside Wyncode. If many people work on the same project, we use GitHub to communicate. [Many open-source projects](https://github.com/open-source) use GitHub as well. 
 - There may be a situation where you make changes to files on GitHub Pages may take some time for it to appear if you go to the URL on GitHub. This is because of something GitHub does [called caching](https://www.dynadot.com/community/help/question/what-is-cached-website).
 - You'll be adding a `README.md` file on all of the projects you do. Trust me, you-in-two-years will thank you for it.
+# e-a-w
