@@ -4,12 +4,12 @@
   --link-text-color: black;
   --link-bg-color: white;
   --link-bg-hover: darkgray;
+  font-size: 16px;
 }
 
 body {
   margin: 0;
   padding: 0;
-  font-size: 16px;
   box-sizing: border-box;
   font-family: Roboto, Arial, Helvetica, sans-serif;
   color: white;
@@ -75,11 +75,8 @@ body {
   grid-area: left;
 }
 
-.sidenav li {
-  list-style-type: none;
-}
-
 .side-nav-link {
+  list-style-type: none;
   text-decoration: none;
   color: var(--link-text-color);
   background: var(--link-bg-color);
@@ -87,7 +84,7 @@ body {
   margin: 0 0 1rem -40px;
   padding: .5rem;
   cursor: pointer;
-  transition: all 1s ease;
+  transition: background 1s ease;
 }
 
 .side-nav-link:last-child {
@@ -109,7 +106,6 @@ body {
 
 .section, .aside {
   background: rgba(0,0,0,.7);
-  border: var(--element-border);
 }
 
 .section {
@@ -134,11 +130,11 @@ body {
   display: block;
   width: 50%;
   margin: 0 auto;
-  transition: all 1s ease;
+  transition: background 1s ease;
 }
 
 .button:hover {
-  background-color: var(--link-bg-hover);
+  background: var(--link-bg-hover);
 }
 
 /* ---RIGHT ASIDE */
@@ -174,7 +170,7 @@ body {
   height: 1.5rem;
   font-size: .8rem;
   align-self: center;
-  transition: all 1s ease;
+  transition: background 1s ease;
 }
 
 .submit-button:hover {
