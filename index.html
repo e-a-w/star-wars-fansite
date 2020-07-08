@@ -1,13 +1,100 @@
 <!DOCTYPE html>
-  <html lang="en">
-    <head>
-      <meta charset="UTF-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <meta http-equiv="X-UA-Compatible" content="ie=edge">
-      <link rel="stylesheet" href="fansite.css">
-      <title>Your Fansite Name here</title>
-    </head>
-    <body>
-yay
-    </body>
-  </html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<link rel="stylesheet" href="fansite.css">
+	<title>Star Wars Fansite</title>
+</head>
+
+<body>
+
+<div id="container">
+
+	<header id="header">
+    <div id="header-items">
+  		<h1 class="pagetitle">Star Wars</h1>
+	  	<h2 class="smalltitle">a fansite for the sci-fi series!</h2>
+    </div>
+	</header>
+
+	<aside id="left" class="aside">
+		<h2 class="smalltitle">Links</h2>
+		<ul class="sidenav">
+      <a class="side-nav-link" href=""><li>Official Website</li></a>
+      <a class="side-nav-link" href="https://starwars.fandom.com/wiki/Star_Wars"><li>Star Wars Wiki</li></a>
+      <a class="side-nav-link" href="https://www.imdb.com/list/ls070150896/"><li>Cast</li></a>
+    </ul>
+	</aside>
+
+	<main id="main">
+		<section class="section">
+			<h2 class="smalltitle">Episode I</h2>
+			<img alt="episode i poster" class="section-img" src="https://m.media-amazon.com/images/M/MV5BYTRhNjcwNWQtMGJmMi00NmQyLWE2YzItODVmMTdjNWI0ZDA2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY999_SX666_AL_.jpg" />
+      <p>The Phantom Menace</p>
+      <a class="button" href="https://en.wikipedia.org/wiki/Star_Wars:_Episode_I_%E2%80%93_The_Phantom_Menace">learn more!</a>
+		</section>
+		<section class="section">
+			<h2 class="smalltitle">Episode II</h2>
+      <img alt="episode ii poster" class="section-img" src="https://m.media-amazon.com/images/M/MV5BMDAzM2M0Y2UtZjRmZi00MzVlLTg4MjEtOTE3NzU5ZDVlMTU5XkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_SY999_CR0,0,659,999_AL_.jpg" />
+			<p>Attack of the Clones</p>
+      <a class="button" href="https://en.wikipedia.org/wiki/Star_Wars:_Episode_II_%E2%80%93_Attack_of_the_Clones">learn more!</a>
+		</section>
+		<section class="section">
+			<h2 class="smalltitle">Episode III</h2>
+      <img alt="episode iii poster" class="section-img" src="https://m.media-amazon.com/images/M/MV5BNTc4MTc3NTQ5OF5BMl5BanBnXkFtZTcwOTg0NjI4NA@@._V1_SY1000_SX750_AL_.jpg" />
+			<p>Revenge of the Sith</p>
+      <a class="button" href="https://en.wikipedia.org/wiki/Star_Wars:_Episode_III_%E2%80%93_Revenge_of_the_Sith">learn more!</a>
+		</section>
+		<section class="section">
+			<h2 class="smalltitle">Episode IV</h2>
+      <img alt="episode iv poster" class="section-img" src="https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,643,1000_AL_.jpg" />
+			<p>A New Hope</p>
+      <a class="button" href="https://en.wikipedia.org/wiki/Star_Wars_(film)">learn more!</a>
+		</section>
+    		<section class="section">
+			<h2 class="smalltitle">Episode V</h2>
+      <img alt="episode v poster" class="section-img" src="https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,641,1000_AL_.jpg" />
+			<p>The Empire Strikes Back</p>
+      <a class="button" href="https://en.wikipedia.org/wiki/The_Empire_Strikes_Back">learn more!</a>
+		</section>
+    <section class="section">
+			<h2 class="smalltitle">Episode VI</h2>
+      <img alt="episode vi poster" class="section-img" src="https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY999_CR0,0,644,999_AL_.jpg" />
+			<p>Return of the Jedi</p>
+      <a class="button" href="https://en.wikipedia.org/wiki/Return_of_the_Jedi">learn more!</a>
+		</section>
+	</main>
+
+	<aside id="right" class="aside">
+		<h2 class="smalltitle">Poll</h2>
+		<form class="poll" method="POST" action=" <!--formspree link-->" >
+        
+        <label class="contact-label" for="name">Name</label>
+            <input type="text" id="name" name="name" placeholder="your name here"/>
+       
+        <label class="contact-label" for="email">Email</label>
+           <input type="text" id="email" name="email" placeholder="email"/>
+
+          <p class="poll-query">Do you like Darth Vader?</p>
+          
+           <span class="radio"><input type="radio" id="like" name="opinion" value="like"/>
+            <label class="poll-label" for="like">Yes, I like him</label></span>
+
+          <span class="radio"><input type="radio" id="dislike" name="opinion" value="dislike"/>
+          <label class="poll-label" for="dislike">No, I dislike him</label></span>
+
+        <input class="submit-button" type="submit" value="submit"/>
+    </form>
+	</aside>
+  
+</div>
+
+  <footer id="footer">
+    <p>Thank you for visiting! Come again soon!</p>
+  </footer>
+</body>
+
+</html>
