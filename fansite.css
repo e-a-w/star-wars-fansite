@@ -41,7 +41,7 @@ body {
 #header {
   grid-area: header;
   background: rgba(0,0,0,.4);
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
   display: flex;
   flex-direction: column;
   justify-content: center;
