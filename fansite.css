@@ -100,7 +100,7 @@ body {
   grid-area: main;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: flex-start;
 }
 
 .section, .aside {
@@ -115,7 +115,7 @@ body {
 
 .section-img {
   height: 250px;
-  max-width: 200px;
+  width: 170px;
   margin: 0;
 }
 
@@ -183,4 +183,38 @@ body {
   padding: 0 1rem;
   background: rgba(0,0,0,.4);
   font-style: italic;
+}
+
+@media only screen and (max-width: 750px) {
+  #container {
+    display: flex;
+    flex-direction: column;
+    flex-flow: wrap;
+    justify-content: center;
+  }
+
+  #header {
+    flex-basis: 100%;
+  }
+
+  #left, #right {
+    margin: 1.5rem;
+  }
+
+  .aside {
+    margin: 1rem 0;
+    align-self: stretch;
+    position: static;
+    flex-basis: 100%;
+    flex-grow: 0;
+  }
+
+  #main {
+    margin: .5rem 1rem;
+    justify-content: center;
+  }
+
+  .section {
+    flex-grow: 1;
+  }
 }
